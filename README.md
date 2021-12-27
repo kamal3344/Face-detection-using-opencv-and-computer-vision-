@@ -13,7 +13,7 @@ Face detection has gained a lot of attention due to its real-time applications. 
 `OpenCV` contains many pre-trained classifiers for face, eyes, smile etc. The XML files of pre-trained classifiers are stored in `opencv/data/`. For face detection specifically, there are two pre-trained classifiers:
 
 1. Haar Cascade Classifier
-2. LBP Cascade Classifier
+
 
 
 We will explore both face detectors in this tutorial. 
